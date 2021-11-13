@@ -42,7 +42,7 @@ These are sites and services that facilitate creating content subscriptions.
 | [SubscribeStar Adult](https://subscribestar.adult/)  | Openly Allowed    | None? | *Surprisingly supports direct payouts using bank information.* |
 | [OnlyFans](https://onlyfans.com/)  | Hostily Allowed   | VISA, MasterCard, and OnlyFans itself | *Much the same as Patreon, [OnlyFans has also rocked the boat recently with little regard for sex workers](https://www.wired.com/story/onlyfans-reverse-porn-ban-creators/)* |
 | JustFor.Fans <br> (No link; see comment) | Openly Allowed | Trustability | *This site is very opque and doesn't even feature a real landing page. No terms of service or anything. Might be best to avoid. I don't trust sending people here* |
-| [Liberapay](https://liberapay.com/) | [Tentitively Allowed](https://liberapay.com/about/faq#nsfw-creators) | Builted on [Stripe](https://github.com/Qwaxi-Lixard/no-porn-allowed/blob/main/README.md#finicial-services) and Paypal | *It's a small service but is seemingly backed by a company I trust (Bitwarden). Does not come with featurs like Patreon or SubscribStar. Mostly just a tip jar.* |
+| [Liberapay](https://liberapay.com/) | [Tentitively Allowed](https://liberapay.com/about/faq#nsfw-creators) | Built on [Stripe](https://github.com/Qwaxi-Lixard/no-porn-allowed/blob/main/README.md#finicial-services) and Paypal | *It's a small service but is seemingly backed by a company I trust (Bitwarden). Does not come with featurs like Patreon or SubscribStar. Mostly just a tip jar.* |
 
 ## Game Hosting
 
