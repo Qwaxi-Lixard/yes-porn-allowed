@@ -4,6 +4,8 @@ This is a list of sites and services that don't ban their usage in affiliation t
 
 > For a list of companies, sites, and services that have openly ban porn, check out ["No Porn Allowed"](https://github.com/Qwaxi-Lixard/no-porn-allowed).
 
+[Additionally, if you have a GitHub account and want to prepose an addition, click here!](https://github.com/Qwaxi-Lixard/yes-porn-allowed/issues/new?assignees=&labels=documentation&template=add-porn-allowed-site.md&title=Add+%5BSITE%5D+to+Yes+Porn+Allow+list)
+
 # A Brief Disclaimer 
 
 Same disclaimer as before: this list is very much US centric. I am an American artist and game dev. As such, this list contains either US or Global polocies. If these sites have a different stance for your country, please let me know here or on twitter (@QwaxiLixard). Moreover, I cannot exam every site that exist, so this list will always be non-exhaustive. If there is any site you feel should be added, feel free to send me a message.
