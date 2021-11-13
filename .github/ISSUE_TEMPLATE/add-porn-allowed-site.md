@@ -1,7 +1,7 @@
 ---
 name: Add Porn Allowed Site
 about: Template for adding new site to Porn Allowed List.
-title: Add [SITE] to Yes Porn Allow list
+title: Add "[SITE]" to Yes Porn Allow list
 labels: documentation
 assignees: ''
 
