@@ -20,7 +20,7 @@ These are sites and services that facilitate the transfer of money between indiv
 
 | Company/Product | Degree of Usage   | Potienital Time Bombs | Comment |
 |:---------------:|:-----------------:|:---------------------:|:-------:|
-| PayPal          | Hostily Tolerance | [It's fucking PayPal](https://www.google.com/search?hl=en&q=PayPal%20porn%20ban) | *Know to be fast to ban for infractions. Make sure to use invoices at all time and disallow comment from customers.<br> [Recent changes have made PayPal unusuable for Thailand users](https://www.paypal.com/th/webapps/mpp/thailand-relaunch-faq?locale.x=en_TH).* |
+| PayPal          | Hostily Tolerance | [It's fucking PayPal](https://www.google.com/search?hl=en&q=PayPal%20porn%20ban) | *Know to be fast to ban for infractions. Make sure to use invoices at all time and disallow comment from customers.<br> [Recent changes may pose challenges for Thailand users](https://www.paypal.com/th/webapps/mpp/thailand-relaunch-faq?locale.x=en_TH).* |
  
 
 ## Merchant Services
