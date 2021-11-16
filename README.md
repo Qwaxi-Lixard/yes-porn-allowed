@@ -66,6 +66,12 @@ These are sites and services that allow you to host images for distributing and 
 |                                             [Catbox](https://catbox.moe/)                                             |                                               Allowed                                                |                Funding                 |                        *This is a popular hosting site for porn creators looking to upload .webms or .mp4s. However, they rely on funding from users which doesn't fully cover the cost.*                         |
 
 
+## Streaming Service
+|         Company/Product         | Degree of Usage | Potienital Time Bombs | Comment |
+|:-------------------------------:|:---------------:|:---------------------:|:-------:|
+| [Picarto](https://www.picarto.tv/) | Openly Allowed | None / Unknown  | Streams must be marked as NSFW. [See Section 14 of their TOS](https://www.picarto.tv/site/terms) |
+
+
 
 ## Email List
 These are sites and services that help automate sending emails to customers and fans.
