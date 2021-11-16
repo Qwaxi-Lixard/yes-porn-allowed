@@ -24,7 +24,7 @@ These are sites and services that facilitate the transfer of money between indiv
 |:---------------:|:-----------------:|:--------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |     PayPal      | Hostily Tolerance | [It's fucking PayPal](https://www.google.com/search?hl=en&q=PayPal%20porn%20ban) | *Know to be fast to ban for infractions. Make sure to use invoices at all time and disallow comment from customers.<br> [Recent changes may pose challenges for Thailand users](https://www.paypal.com/th/webapps/mpp/thailand-relaunch-faq?locale.x=en_TH).* |
 | [Payment Cloud](https://paymentcloudinc.com/) | Openly Allowed | None / Unknown | *They specialize in working with "High Risk" business. They seem to support invoicing, howver they are very opaque and require __applying__ for an account. Additionally, they're US company with unknown international support.*|
-
+| [Pay Diverse](https://paydiverse.com/) | Openly Allowed | None / Unknown | *They specialize in working with "High Risk" business. They are very opaque as a company and require __applying__ for an account. Additionally, they're US company with unknown international support.* |
 
 ## Merchant Services
 These are sites and services that facilitate selling content or services.
