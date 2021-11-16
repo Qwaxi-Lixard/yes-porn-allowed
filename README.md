@@ -1,4 +1,4 @@
-# Yes Porn Allowed
+# Yes Porn Allowed (Last Updated November 16, 2021)
 
 This is a list of sites and services that don't ban their usage in affiliation to adult content. It's important to not that each site, survice, platform, or business may have different limits. Additionally, some sites don't ban porn but do have "obscene content clauses". It is possible such clauses could be extended to adult content given company or governmental oppinion. Other sites openly allow/tolerate porn but are known to be hostile towards it's adult creators. Any such case will be noted. Lastly, this list is meant to document what I and other creators have found out in the wild.
 
