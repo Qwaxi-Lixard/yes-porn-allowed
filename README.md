@@ -20,12 +20,12 @@ The following list the various services that exist. Each table includes a link (
 ## Finicial Services
 These are sites and services that facilitate the transfer of money between individuals.
 
-| Company/Product |  Degree of Usage  |                              Potienital Time Bombs                               |                                                                                                                            Comment                                                                                                                            |
-|:---------------:|:-----------------:|:--------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     PayPal      | Hostily Tolerance | [It's fucking PayPal](https://www.google.com/search?hl=en&q=PayPal%20porn%20ban) | *Know to be fast to ban for infractions. Make sure to use invoices at all time and disallow comment from customers.<br> [Recent changes may pose challenges for Thailand users](https://www.paypal.com/th/webapps/mpp/thailand-relaunch-faq?locale.x=en_TH).* |
-| [Payment Cloud](https://paymentcloudinc.com/) | Openly Allowed | None / Unknown | *They specialize in working with "High Risk" business. They seem to support invoicing, howver they are very opaque and require __applying__ for an account. Additionally, they're US company with unknown international support.*|
-| [Pay Diverse](https://paydiverse.com/) | Openly Allowed | None / Unknown | *They specialize in working with "High Risk" business. They are very opaque as a company and require __applying__ for an account. Additionally, they're US company with unknown international support.* |
-| [Wave](https://www.waveapps.com/) | [Obscenity Clause (G. Prohibited Use)](https://www.waveapps.com/legal/terms-of-use) | Change of Policies <br/> <br/> Adult content is deemed obscene by US Government, Canadian Government, or Wave | *Exclusively for US and Canadian users. [Support for EU and UK ended December 1st, 2020](https://community.waveapps.com/discussion/9686/dec-1-changes-to-wave-for-users-outside-of-the-united-states-and-canada)* |
+|                Company/Product                |                                   Degree of Usage                                   |                                             Potienital Time Bombs                                             |                                                                                                                            Comment                                                                                                                            |
+|:---------------------------------------------:|:-----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                    PayPal                     |                                  Hostily Tolerance                                  |               [It's fucking PayPal](https://www.google.com/search?hl=en&q=PayPal%20porn%20ban)                | *Know to be fast to ban for infractions. Make sure to use invoices at all time and disallow comment from customers.<br> [Recent changes may pose challenges for Thailand users](https://www.paypal.com/th/webapps/mpp/thailand-relaunch-faq?locale.x=en_TH).* |
+| [Payment Cloud](https://paymentcloudinc.com/) |                                   Openly Allowed                                    |                                                None / Unknown                                                 |               *They specialize in working with "High Risk" business. They seem to support invoicing, howver they are very opaque and require __applying__ for an account. Additionally, they're US company with unknown international support.*               |
+|    [Pay Diverse](https://paydiverse.com/)     |                                   Openly Allowed                                    |                                                None / Unknown                                                 |                            *They specialize in working with "High Risk" business. They are very opaque as a company and require __applying__ for an account. Additionally, they're US company with unknown international support.*                            |
+|       [Wave](https://www.waveapps.com/)       | [Obscenity Clause (G. Prohibited Use)](https://www.waveapps.com/legal/terms-of-use) | Change of Policies <br/> <br/> Adult content is deemed obscene by US Government, Canadian Government, or Wave |                       *Exclusively for US and Canadian users. [Support for EU and UK ended December 1st, 2020](https://community.waveapps.com/discussion/9686/dec-1-changes-to-wave-for-users-outside-of-the-united-states-and-canada)*                       |
 
 ## Merchant Services
 These are sites and services that facilitate selling content or services.
@@ -69,30 +69,30 @@ These are sites and services that allow you to host images for distributing and 
 
 
 ## Streaming Service
-|         Company/Product         | Degree of Usage | Potienital Time Bombs | Comment |
-|:-------------------------------:|:---------------:|:---------------------:|:-------:|
-| [Picarto](https://www.picarto.tv/) | Openly Allowed | None / Unknown  | *Streams must be marked as NSFW. [See Section 14 of their TOS](https://www.picarto.tv/site/terms)* |
-| [Piczel.tv](https://www.picarto.tv/) | Openly Allowed | None / Unknown  | *Streams must be marked as NSFW. [See Section 9 of their TOS](https://piczel.tv/help/tos)* |
+|           Company/Product            | Degree of Usage | Potienital Time Bombs |                                              Comment                                               |
+|:------------------------------------:|:---------------:|:---------------------:|:--------------------------------------------------------------------------------------------------:|
+|  [Picarto](https://www.picarto.tv/)  | Openly Allowed  |    None / Unknown     | *Streams must be marked as NSFW. [See Section 14 of their TOS](https://www.picarto.tv/site/terms)* |
+| [Piczel.tv](https://www.picarto.tv/) | Openly Allowed  |    None / Unknown     |     *Streams must be marked as NSFW. [See Section 9 of their TOS](https://piczel.tv/help/tos)*     |
 
 
 
 ## Email List
 These are sites and services that help automate sending emails to customers and fans.
 
-|         Company/Product         | Degree of Usage | Potienital Time Bombs | Comment |
-|:-------------------------------:|:---------------:|:---------------------:|:-------:|
-| [Goodbit](https://goodbits.io/) |        Allowed         |          None / Unknown / Change of Policy             |    *Has no anti-porn clause and no obscenity clause*     |
+|            Company/Product            | Degree of Usage  |                  Potienital Time Bombs                   |                                               Comment                                               |
+|:-------------------------------------:|:----------------:|:--------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
+|    [Goodbit](https://goodbits.io/)    |     Allowed      |            None / Unknown / Change of Policy             |                          *Has no anti-porn clause and no obscenity clause*                          |
 | [Convert Kit](https://convertkit.com) | Obscenity Clause | Adult content is deemed obscene by US law or Convert Kit | *[Section 8 Termination Policy of their TOS has an obscenity clause](https://convertkit.com/terms)* |
 
 ## Code Hosting
 These are sites and services that facilitate the hosting of source code repositories for developers.
 
 
-| Company/Product |                                                         Degree of Usage                                                         |                   Potienital Time Bombs                   |                                                                   Comment                                                                    |
-|:---------------:|:-------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
-|     [GitLab](https://gitlab.com/)      | [Obscenity Clause](https://about.gitlab.com/handbook/legal/policies/website-terms-of-use/#3-responsibility-of-website-visitors) | Porn being deamed obscene by US Law or GitLab's oppinion. | *I use this for hosting backup of my game and tracking changes. They don't openly ban adult content, but I don't dare make anything public.* |
-|     [💻 Gogs](https://gogs.io/)     |                                                          Self-Hosting                                                           |                           None                            |                                               *One of many self-hosting git service toolkits*                                                |
-|    [💻 Gitea](https://gitea.com/)    |                                                          Self-Hosting                                                           |                           None                            |                                               *One of many self-hosting git service toolkits*                                                |
+|        Company/Product         |                                                         Degree of Usage                                                         |                   Potienital Time Bombs                   |                                                                   Comment                                                                    |
+|:------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+| [GitLab](https://gitlab.com/)  | [Obscenity Clause](https://about.gitlab.com/handbook/legal/policies/website-terms-of-use/#3-responsibility-of-website-visitors) | Porn being deamed obscene by US Law or GitLab's oppinion. | *I use this for hosting backup of my game and tracking changes. They don't openly ban adult content, but I don't dare make anything public.* |
+|  [💻 Gogs](https://gogs.io/)   |                                                          Self-Hosting                                                           |                           None                            |                                               *One of many self-hosting git service toolkits*                                                |
+| [💻 Gitea](https://gitea.com/) |                                                          Self-Hosting                                                           |                           None                            |                                               *One of many self-hosting git service toolkits*                                                |
  
 
 ## Organization Services
@@ -107,35 +107,35 @@ These are sites and services that let you organize your notes and planning.
 ## Communcation Services
 These are sites and services that let individuals or groups communicate with others or their members.
 
-| Company/Product |                            Degree of Usage                            |                    Potienital Time Bombs                     |                                                                                               Comment                                                                                               |
-|:---------------:|:---------------------------------------------------------------------:|:------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     [Discord](https://discord.com/)     | [Allowed](https://support.discord.com/hc/en-us/articles/115000084051) | [Discord](https://webcamstartup.com/discord-adult-friendly/) | *I was expecting to place discord into the Openly allowed catagory, [but up until 2018 their TOS disallowed pornography.](https://web.archive.org/web/20180401232433/https://discordapp.com/terms)* |
-|    [Telegram](https://telegram.org/)     |                                Allowed                                |                     External Regulation                      |    *Telegram's iOS application has restrictions around NSFW channel. [Additionally, their payment API is unable to be used.](https://github.com/Qwaxi-Lixard/no-porn-allowed#finicial-services)*    |
+|          Company/Product          |                            Degree of Usage                            |                    Potienital Time Bombs                     |                                                                                               Comment                                                                                               |
+|:---------------------------------:|:---------------------------------------------------------------------:|:------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  [Discord](https://discord.com/)  | [Allowed](https://support.discord.com/hc/en-us/articles/115000084051) | [Discord](https://webcamstartup.com/discord-adult-friendly/) | *I was expecting to place discord into the Openly allowed catagory, [but up until 2018 their TOS disallowed pornography.](https://web.archive.org/web/20180401232433/https://discordapp.com/terms)* |
+| [Telegram](https://telegram.org/) |                                Allowed                                |                     External Regulation                      |    *Telegram's iOS application has restrictions around NSFW channel. [Additionally, their payment API is unable to be used.](https://github.com/Qwaxi-Lixard/no-porn-allowed#finicial-services)*    |
 
 
 ## Cloud Storage
 These are sites and services that provide web-based ability to back up files and data.
 
-| Company/Product |                           Degree of Usage                            |                      Potienital Time Bombs                       |                                                        Comment                                                        |
-|:---------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
-|      [MEGA](https://mega.nz/)       | [Obsceneity Clause (15.7.4)](https://mega.nz/terms#what_you_cant_do) | Porn being deamed obscene by New Zealand Law or MEGA's oppinion. |                *A lot of creators use them for hosting porn. They are likely safe for the time being.*                |
-|     [Dropbox](https://www.dropbox.com/?landing=dbv2)     |                               Allowed                                |                None / Unknown / Change of Policy                 | *Neither the TOS or the Acceptable Use Policy mention porn being banned. Additionally, they lack an obscenity clause* |
+|                 Company/Product                  |                           Degree of Usage                            |                      Potienital Time Bombs                       |                                                        Comment                                                        |
+|:------------------------------------------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
+|             [MEGA](https://mega.nz/)             | [Obsceneity Clause (15.7.4)](https://mega.nz/terms#what_you_cant_do) | Porn being deamed obscene by New Zealand Law or MEGA's oppinion. |                *A lot of creators use them for hosting porn. They are likely safe for the time being.*                |
+| [Dropbox](https://www.dropbox.com/?landing=dbv2) |                               Allowed                                |                None / Unknown / Change of Policy                 | *Neither the TOS or the Acceptable Use Policy mention porn being banned. Additionally, they lack an obscenity clause* |
 
 ## Cloud Writing Tools
 These are sites and services that provide cloud-based writing tools for colaboration, sharing, or storage.
 
 
-| Company/Product | Degree of Usage |       Potienital Time Bombs       |                                                                Comment                                                                 |
-|:---------------:|:---------------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
-|    [Grammarly](https://app.grammarly.com/)    |     Allowed     | None / Unknown / Change of Policy | *Grammarly does not have an anti-porn clause nor an obscenity clause in their TOS. Tho, the proofreading AI can be a bit untrustable.* |
-|  [ProWritingAid](https://prowritingaid.com/)  |     Allowed     | None / Unknown / Change of Policy |                        *ProWritingAid does not have an anti-pron clause nor an obscenity clause in their TOS.*                         |
+|               Company/Product               | Degree of Usage |       Potienital Time Bombs       |                                                                Comment                                                                 |
+|:-------------------------------------------:|:---------------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
+|   [Grammarly](https://app.grammarly.com/)   |     Allowed     | None / Unknown / Change of Policy | *Grammarly does not have an anti-porn clause nor an obscenity clause in their TOS. Tho, the proofreading AI can be a bit untrustable.* |
+| [ProWritingAid](https://prowritingaid.com/) |     Allowed     | None / Unknown / Change of Policy |                        *ProWritingAid does not have an anti-pron clause nor an obscenity clause in their TOS.*                         |
 
 
 ## Hosting / Cloud Platforms
 These are sites and services that enable building cloud based applications, servicers, or facilitate hosting of websites.
 
 
-| Company/Product | Degree of Usage |       Potienital Time Bombs       |                                                                 Comment                                                                  |
-|:---------------:|:---------------:|:---------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
-|       [AWS](https://aws.amazon.com/)       |   Allowed (?)   | None / Unknown / Change of Policy |   *Surprising Amazon doesn't even include an obscenety clause in their [AUP](https://aws.amazon.com/aup/). It is refreshingly short.*    |
-|    [Neocities](https://neocities.org/)    |     Allowed     | None / Unknown / Change of Policy | *While obscenity is mentioned, it is only with regards to state mandated obscenity laws. Should be fine for US usage for the time being* |
+|           Company/Product           | Degree of Usage |       Potienital Time Bombs       |                                                                 Comment                                                                  |
+|:-----------------------------------:|:---------------:|:---------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
+|   [AWS](https://aws.amazon.com/)    |   Allowed (?)   | None / Unknown / Change of Policy |   *Surprising Amazon doesn't even include an obscenety clause in their [AUP](https://aws.amazon.com/aup/). It is refreshingly short.*    |
+| [Neocities](https://neocities.org/) |     Allowed     | None / Unknown / Change of Policy | *While obscenity is mentioned, it is only with regards to state mandated obscenity laws. Should be fine for US usage for the time being* |
