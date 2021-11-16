@@ -71,8 +71,8 @@ These are sites and services that allow you to host images for distributing and 
 ## Streaming Service
 |         Company/Product         | Degree of Usage | Potienital Time Bombs | Comment |
 |:-------------------------------:|:---------------:|:---------------------:|:-------:|
-| [Picarto](https://www.picarto.tv/) | Openly Allowed | None / Unknown  | Streams must be marked as NSFW. [See Section 14 of their TOS](https://www.picarto.tv/site/terms) |
-| [Piczel.tv](https://www.picarto.tv/) | Openly Allowed | None / Unknown  | Streams must be marked as NSFW. [See Section 9 of their TOS](https://piczel.tv/help/tos) |
+| [Picarto](https://www.picarto.tv/) | Openly Allowed | None / Unknown  | *Streams must be marked as NSFW. [See Section 14 of their TOS](https://www.picarto.tv/site/terms)* |
+| [Piczel.tv](https://www.picarto.tv/) | Openly Allowed | None / Unknown  | *Streams must be marked as NSFW. [See Section 9 of their TOS](https://piczel.tv/help/tos)* |
 
 
 
