@@ -17,7 +17,7 @@ Same disclaimer as before: this list is very much US centric. I am an American a
 # By Survice Type
 The following list the various services that exist. Each table includes a link (if allowable) to the company/site/service, what degree they tolerate/allow porn, and any potienital ticking time bombs.
 
-## Finicial Services
+## Financial Services
 These are sites and services that facilitate the transfer of money between individuals.
 
 |                Company/Product                |                                   Degree of Usage                                   |                                             Potienital Time Bombs                                             |                                                                                                                            Comment                                                                                                                            |
@@ -139,3 +139,4 @@ These are sites and services that enable building cloud based applications, serv
 |:-----------------------------------:|:---------------:|:---------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
 |   [AWS](https://aws.amazon.com/)    |   Allowed (?)   | None / Unknown / Change of Policy |   *Surprising Amazon doesn't even include an obscenety clause in their [AUP](https://aws.amazon.com/aup/). It is refreshingly short.*    |
 | [Neocities](https://neocities.org/) |     Allowed     | None / Unknown / Change of Policy | *While obscenity is mentioned, it is only with regards to state mandated obscenity laws. Should be fine for US usage for the time being* |
+| [Linktree](https://linktr.ee/) | Tentatively Allowed | Change of Policy | *Section 7 Acceptable Use, Clause (K) states you cannot include sexual content on your page itself nor your account itself. Links to and from an NSFW Twitter should be fine, but describing what you create wouldn't.<br>[Link to TOS]( https://linktr.ee/s/terms/)*|
