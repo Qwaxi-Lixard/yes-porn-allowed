@@ -135,8 +135,11 @@ These are sites and services that provide cloud-based writing tools for colabora
 These are sites and services that enable building cloud based applications, servicers, or facilitate hosting of websites.
 
 
+
 |           Company/Product           | Degree of Usage |       Potienital Time Bombs       |                                                                 Comment                                                                  |
 |:-----------------------------------:|:---------------:|:---------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------:|
 |   [AWS](https://aws.amazon.com/)    |   Allowed (?)   | None / Unknown / Change of Policy |   *Surprising Amazon doesn't even include an obscenety clause in their [AUP](https://aws.amazon.com/aup/). It is refreshingly short.*    |
 | [Neocities](https://neocities.org/) |     Allowed     | None / Unknown / Change of Policy | *While obscenity is mentioned, it is only with regards to state mandated obscenity laws. Should be fine for US usage for the time being* |
 | [Linktree](https://linktr.ee/) | Tentatively Allowed | Change of Policy | *Section 7 Acceptable Use, Clause (K) states you cannot include sexual content on your page itself nor your account itself. Links to and from an NSFW Twitter should be fine, but describing what you create wouldn't.<br>[Link to TOS]( https://linktr.ee/s/terms/)*|
+| [NearlyFreeSpeech.net](https://www.nearlyfreespeech.net/) | Openly Allowed  |               None                | *They will host anything, as long as it's legal, but unfortunately this DOES include fascists etc. They try to make up for this by spending all the money they make from such projects on organisations which oppose the goals of them. You can read up on this in their FAQ: search for "MFFAM"* |
+
