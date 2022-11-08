@@ -2,7 +2,7 @@
 
 It seems my country is instant on becoming a draconian hellscape. The EARNIT Act has once a gain resurfaced. It's a law that will annihilate privacy, encryption, and will be used to scrub adult content off the internet. If, you know anything about how conservatives work here, it'll like be used to destroy LGBT+ communities online. [If you're a US citizen I implore you to speak out.](https://act.eff.org/action/stop-the-earn-it-act-to-save-our-privacy)
 
-# Yes Porn Allowed (Last Updated August 18, 2022)
+# Yes Porn Allowed (Last Updated October 7th, 2022)
 
 This is a list of sites and services that don't ban their usage in affiliation to adult content. It's important to not that each site, service, platform, or business may have different limits. Additionally, some sites don't ban porn but do have "obscene content clauses". It is possible such clauses could be extended to adult content given company or governmental opinion. Other sites openly allow/tolerate porn but are known to be hostile towards it's adult creators. Any such case will be noted. Lastly, this list is meant to document what I and other creators have found out in the wild.
 
