@@ -55,6 +55,14 @@ These are sites and services that facilitate creating content subscriptions.
 |   [Patreon](https://www.patreon.com/creator-home)   |                           Hostily Allowed                            |                                        VISA, MasterCard, and Patreon itself                                         | *Patreon is listed as Hostily Allowed do to the growing instability of using the platform. This comes from growing pressure from [VISA and MasterCard](https://techcrunch.com/2021/09/22/patreon-to-roll-out-tools-to-help-its-adult-creators-meet-mastercards-new-standards/) attempting to restrict adult content.* |
 | [SubscribeStar Adult](https://subscribestar.adult/) |                            Openly Allowed                            |                                                        None?                                                        |                                                                                                                            *Surprisingly supports direct payouts using bank information.*                                                                                                                             |
 
+## Social Media
+Title is self explanitory. Additionally, most instances on the fediverse allow sexual content. Check out some furry focused ones: [https://furryfediverse.org/](https://furryfediverse.org/).
+
+|       Company/Product        |                             Degree of Usage                             | Potential Time Bombs |                                       Comment                                        |
+|:----------------------------:|:-----------------------------------------------------------------------:|:--------------------:|:------------------------------------------------------------------------------------:|
+|  [Itaku](https://itaku.ee)   |    [Allowed if marked, No IRL content](https://itaku.ee/help/rules)     |         N/A          | Funding, if you like the site support it on [Patreon](https://www.patreon.com/itaku) |
+| [cohost](https://cohost.org) | [Allowed if marked](https://cohost.org/rc/content/community-guidelines) |         N/A          |                          Site relies 100% community funds.                           |
+
 ## Game Hosting
 
 |          Company/Product          |                       Degree of Usage                       |                                  Potential Time Bombs                                  |                                                                                                                                                    Comment                                                                                                                                                     |
